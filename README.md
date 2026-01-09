@@ -21,6 +21,5 @@ Pandas
 Matplotlib
 
 📊 Resultados Obtidos
-Identificação do mês com maior volume de vendas
-Análise do método de pagamento mais utilizado pelos clientes
-Determinação das categorias responsáveis pelo maior faturamento
+Análise do método de pagamento mais utilizado pelos clientes. 
+Determinação das categorias de produtos maís consumido (financiamento).
